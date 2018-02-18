@@ -41,14 +41,7 @@
               <li><a href="deleteTeam.php">Delete Team</a></li>
             </ul>
           </li>
-		  <li> <a>Tournaments</a>
-            <ul>
-              <li><a href="addtournament.php">Add Tournament</a></li>
-              <li><a href="searchT">Search Tournament</a></li>
-              
-              <li><a href="deleteT.php">Delete Tournament</a></li>
-            </ul>
-          </li>
+		  
 		  <li> <a >Rankings</a>
             <ul>
               <li><a href="odi rank.php">ICC RANKING ODI</a></li>
